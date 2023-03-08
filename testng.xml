@@ -7,7 +7,7 @@
       <class name="com.SauceDemo1.TestPack.TC02_VerifyHomePagefunctionality"/>
       <class name="com.SauceDemo1.TestPack.TC06_VerifyLogOut"/>
       <class name="com.SauceDemo1.TestPack.TC03_VerifyAddtoCart"/>
-      <class name="com.SauceDemo1.TestPack.TestBaseClass"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
